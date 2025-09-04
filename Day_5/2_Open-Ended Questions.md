@@ -2,7 +2,7 @@
 
 * **Single quotes `' '`** → take the text **literally**. Nothing inside is expanded.
 * **Double quotes `" "`** → allow **variable expansion** and command substitution.
-![](ScreenShot/9.png)
+![](Day_5/ScreenShot/9.png)
 
 ---
 
@@ -40,6 +40,6 @@ You can check them in `/proc/<pid>/fd`.
 ---
 ### 5. Simple bash calculator (add/subtract)
 * **Script**    
-![](ScreenShot/13.png)
+![](Day_5/ScreenShot/12.png)
 * **Test**    
-![](ScreenShot/12.png)
+![](Day_5/ScreenShot/13.png)

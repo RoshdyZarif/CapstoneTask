@@ -2,7 +2,7 @@
 2. **List processes and filter for the background task**
 
 **Python Code to Simulate Sensor Polling**
-![](ScreenShot/1.png)
+![](Day_4/ScreenShot/1.png)
 
 **Run Task in background and Print Process in Details and Filter background Process**
 ![](ScreenShot/2.png)
